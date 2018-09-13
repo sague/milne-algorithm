@@ -4,3 +4,6 @@ Algunos métodos númericos para ODEs usando C++ y gnuplot.
 
 Some numerical methods for solving ODEs using C++ and gnuplot.
 
+* Taylor
+* Runge-Kutta
+* Milnes
